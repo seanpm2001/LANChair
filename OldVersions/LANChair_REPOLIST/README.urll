@@ -1,16 +1,54 @@
 ////URLL-version=3;
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: LANChair_REPOLIST.urll
-//// URL list for LANChair repositories
-//// 4 total repository links (as of 2023, Saturday, March 18th at 7:22 pm PST)
+//// A list of all LANChair project repositories by @seanpm2001
+//// As of 2025, Friday, October 17th
 
-//// GitHub (4)
+//// LANChair Main (1)
+
 https://github.com/seanpm2001/LANChair
-https://github.com/seanpm2001/LANChair_Docs
-https://github.com/seanpm2001/LANChair_LANMan
-https://github.com/seanpm2001/LANChair_Messenger
 
+//// LANChair core documentation (1)
+
+https://github.com/seanpm2001/LANChair_Docs
+
+//// LANChair LANMan (2)
+
+https://github.com/seanpm2001/LANChair_LANMan
+https://github.com/seanpm2001/LANChair_LANMan_Docs
+
+//// LANChair Messenger (2)
+
+https://github.com/seanpm2001/LANChair_Messenger
+https://github.com/seanpm2001/LANChair_Messenger_Docs
+
+//// LANChair Website (1)
+
+https://github.com/seanpm2001/LANChair_Website
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (LANChair): 7
+//// 1+1+2+2+1=7
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (0)
+
+//// Nothing to display here
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 0
+//// 0+0=0
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 7
+//// 7+0=7
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
 //// File info
-//// File version: 2 (2023, Saturday, March 18th at 7:22 pm PST)
-//// Line count (including blank lines and compiler line): 17
-//// End of file (EOF)
+//// File type: URLL v3 list file (*.urll)
+//// File version: 3 (2025, Friday, October 17th at 07:22 pm PST)
+//// Line count (including blank lines and compiler line): 55
+//// ----------------------------------------------------- \\\\
+
+//// End of file
